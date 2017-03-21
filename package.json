@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bvodola/react-view-helpers/issues"
   },
-  "homepage": "https://github.com/bvodola/react-view-helpers#readme"
+  "homepage": "https://github.com/bvodola/react-view-helpers#readme",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
 }
